@@ -1,12 +1,12 @@
 # Composer Package Template
 
-A template repository for PHP package.
+A template repository for PHP composer package.
 
 
 ## Install
 
 ```shell
-$ composer require username/package -vvv
+$ composer require user/package -vvv
 ```
 
 ## Usage
