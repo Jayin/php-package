@@ -1,0 +1,29 @@
+{
+    "name": "jayin/php-package",
+    "description": "A PHP package template repository.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vendor",
+            "email": "name@domain.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Package\\": "src"
+        }
+    },
+    "extra": {},
+    "scripts": {
+        "test": "phpunit --colors"
+    },
+    "scripts-descriptions": {
+        "test": "Run all tests."
+    }
+}
