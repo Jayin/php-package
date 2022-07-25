@@ -1,6 +1,6 @@
 {
     "name": "jayin/php-package",
-    "description": "A PHP package template repository.",
+    "description": "A PHP package template repository.Inspire by `overtrue/php-package`",
     "license": "MIT",
     "authors": [
         {
