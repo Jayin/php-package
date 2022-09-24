@@ -4,8 +4,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "vendor",
-            "email": "name@domain.com"
+            "name": "Jayin",
+            "email": "tonjayin@gmail.com"
         }
     ],
     "require": {
@@ -16,7 +16,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Vendor\\Package\\": "src"
+            "Jayin\\Package\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
         }
     },
     "extra": {},
